@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Ismaaciil11/static/css/main.c282a9d6.css",
-    "main.js": "/Ismaaciil11/static/js/main.48360fc7.js",
-    "static/media/profile-2.png": "/Ismaaciil11/static/media/profile-2.4752a9db34458eeffcfa.png",
-    "static/media/doctor-picture.png": "/Ismaaciil11/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
-    "static/media/profile-1.png": "/Ismaaciil11/static/media/profile-1.0261bb4efe7a9075c56a.png",
-    "static/media/doctor-group.png": "/Ismaaciil11/static/media/doctor-group.01394386d8270bd40bc1.png",
-    "static/media/profile-3.png": "/Ismaaciil11/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
-    "static/media/doctor-book-appointment.png": "/Ismaaciil11/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
-    "static/media/profile-4.png": "/Ismaaciil11/static/media/profile-4.3c44185ab9c84614038f.png",
-    "index.html": "/Ismaaciil11/index.html",
-    "main.c282a9d6.css.map": "/Ismaaciil11/static/css/main.c282a9d6.css.map",
-    "main.48360fc7.js.map": "/Ismaaciil11/static/js/main.48360fc7.js.map"
+    "main.css": "/healthTips/static/css/main.c282a9d6.css",
+    "main.js": "/healthTips/static/js/main.9ccd2630.js",
+    "static/media/profile-2.png": "/healthTips/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/doctor-picture.png": "/healthTips/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
+    "static/media/profile-1.png": "/healthTips/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/doctor-group.png": "/healthTips/static/media/doctor-group.01394386d8270bd40bc1.png",
+    "static/media/profile-3.png": "/healthTips/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/doctor-book-appointment.png": "/healthTips/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
+    "static/media/profile-4.png": "/healthTips/static/media/profile-4.3c44185ab9c84614038f.png",
+    "index.html": "/healthTips/index.html",
+    "main.c282a9d6.css.map": "/healthTips/static/css/main.c282a9d6.css.map",
+    "main.9ccd2630.js.map": "/healthTips/static/js/main.9ccd2630.js.map"
   },
   "entrypoints": [
     "static/css/main.c282a9d6.css",
-    "static/js/main.48360fc7.js"
+    "static/js/main.9ccd2630.js"
   ]
 }
